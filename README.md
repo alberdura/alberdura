@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Riful13</h1>
-<h3 align="center">I'm Riful</h3>
+<h3 align="center">I'm alberdura</h3>
 
 - 🔭 I’m currently working on **FunnelNet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/golenwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="golenwa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pau de la cruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pau de la cruz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/albert-burgos-dengra-a15532317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albert burgos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
