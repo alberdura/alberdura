@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Riful13</h1>
+<h1 align="center">Hi 👋, I'm alberdura</h1>
 <h3 align="center">I'm alberdura</h3>
 
 - 🔭 I’m currently working on **FunnelNet**
