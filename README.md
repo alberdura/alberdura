@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albert</h1>
 <h3 align="center">Curious about everything, passionate about technology, science, and the wonders of the world.</h3>
 
-- 🌱 I’m currently working with **BMC Helix**
-
 - 💼 Currently working as **Junior Data Analyst at Inetum**
 
 - 👨‍💻 All of my projects are available at **[github.com/alberdura](https://github.com/alberdura)**
