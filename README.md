@@ -5,11 +5,11 @@
 
 - 💼 Currently working as **Junior Data Analyst at Inetum**
 
-- 👨‍💻 All of my projects are available at [github.com/alberdura](https://github.com/alberdura)
+- 👨‍💻 All of my projects are available at **[github.com/alberdura](https://github.com/alberdura)**
 
 - 📫 Reach me at **albude67@gmail.com**
 
-- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/albertburgos)
+- 🤝 Connect with me on **[Linkedin](https://www.linkedin.com/in/albertburgos)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
